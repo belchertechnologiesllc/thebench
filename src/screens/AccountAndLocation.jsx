@@ -133,7 +133,7 @@ export default function AccountAndLocation() {
 
       <header style={{ background: c.ink, color: "#fff", padding: "14px 20px", display: "flex", alignItems: "baseline", justifyContent: "space-between", gap: 12 }}>
         <div style={{ display: "flex", alignItems: "baseline", gap: 12 }}>
-          <span style={{ fontFamily: display, fontWeight: 700, fontSize: 21 }}>The Bench</span>
+          <span style={{ fontFamily: display, fontWeight: 700, fontSize: 21 }}>On Deck</span>
           <span style={{ ...eyebrow, color: "#8A9382" }}>{session ? "Your account" : "Sign in"}</span>
         </div>
         {session && (

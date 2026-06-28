@@ -230,7 +230,7 @@ export default function AdminIntakeConsole() {
       {/* topbar */}
       <header style={{ background: c.ink, color: "#fff", padding: "14px 20px", display: "flex", alignItems: "baseline", justifyContent: "space-between", gap: 16, flexWrap: "wrap" }}>
         <div style={{ display: "flex", alignItems: "baseline", gap: 12 }}>
-          <span style={{ fontFamily: display, fontWeight: 700, fontSize: 20, letterSpacing: "0.04em" }}>THE SCORER&rsquo;S TABLE</span>
+          <span style={{ fontFamily: display, fontWeight: 700, fontSize: 20, letterSpacing: "0.04em" }}>ON DECK</span>
           <span style={{ ...eyebrow, color: "#7E8794" }}>Intake &amp; approval</span>
         </div>
         <div style={{ display: "flex", alignItems: "baseline", gap: 18 }}>
